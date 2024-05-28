@@ -1,0 +1,9 @@
+
+
+abstract class Constants{
+
+  static const String stripeTestKey = "pk_test_51MVtRmLVIJFLsVvpr7pdw9EnIZQ3XoSOUEA2m6bgR4WXUlVzFuRgQFZrnXLpNXSS5BNxbuHjSFRPrHpbDVQkrgWy00gmDhWvGn";
+  static const String stripIdPublish="sk_test_51MVtRmLVIJFLsVvptn502Ntp0PTH9vLz7Qgh4Nm2Zc6kE498sBuqIcbqA9f5jiibZHHVsBKoPaTqVQVBfHT4LIqI00KFukXSg7";
+
+
+}
